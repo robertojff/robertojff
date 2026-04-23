@@ -5,6 +5,15 @@ Analista de Dados em formação
 
  Me chamo Roberto Ferreira, tenho 25 anos e moro em Itapevi, São Paulo. Atualmente estou cursando faculdade e em transição de carreira para a área de Dados. Possuo experiência prática com Excel e Power BI, atuando na organização, análise e automação de processos em ambiente corporativo. Tenho me dedicado ao desenvolvimento de projetos práticos e ao estudo de SQL e Python, com o objetivo de transformar dados em informações relevantes para a tomada de decisão. Busco minha primeira oportunidade como Analista de Dados, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente na área de tecnologia.
 
+ <p>
+  <a href="mailto:robertojff3333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roberto-de-jesus-ferreira-884128233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <h3>Linguagens e Tecnologias</h3>
