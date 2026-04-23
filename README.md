@@ -9,7 +9,7 @@ Analista de Dados em formação
 
 <h3>Linguagens e Tecnologias</h3>
 
-<p">
+<p>
   <img src="https://cdn.simpleicons.org/postgresql" width="40"/>
   <img src="https://cdn.simpleicons.org/python" width="40"/>
 </p>
