@@ -1,18 +1,18 @@
-<h1 align="center">👨‍💻 Roberto Ferreira</h1>
+<h1 👨‍💻 Roberto Ferreira</h1>
 
-<p align="center">
+<p>
   <strong>📊 Analista de Dados em formação</strong>
 </p>
 
-<p align="center">
+<p>
  Me chamo Roberto Ferreira, tenho 25 anos e moro em Itapevi, São Paulo. Atualmente estou cursando faculdade e em transição de carreira para a área de Dados. Possuo experiência prática com Excel e Power BI, atuando na organização, análise e automação de processos em ambiente corporativo. Tenho me dedicado ao desenvolvimento de projetos práticos e ao estudo de SQL e Python, com o objetivo de transformar dados em informações relevantes para a tomada de decisão. Busco minha primeira oportunidade como Analista de Dados, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente na área de tecnologia.
 </p>
 
 ---
 
-<h3 align="center">🚀 Skills</h3>
+<h3>🚀 Skills</h3>
 
-<p align="center">
+<p">
   <img src="https://cdn.simpleicons.org/postgresql" width="40"/>
   <img src="https://cdn.simpleicons.org/python" width="40"/>
   <img src="https://cdn.simpleicons.org/powerbi" width="40"/>
@@ -22,9 +22,9 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3>📊 Estatísticas</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/SQL-Em%20Aprendizado-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-Em%20Evolução-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PowerBI-Intermediário-orange?style=for-the-badge"/>
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">📫 Contato</h3>
+<h3>📫 Contato</h3>
 
 <p align="center">
   <a href="mailto:robertojff3333@gmail.com">
