@@ -12,9 +12,6 @@ Analista de Dados em formação
 <p">
   <img src="https://cdn.simpleicons.org/postgresql" width="40"/>
   <img src="https://cdn.simpleicons.org/python" width="40"/>
-  <img src="https://cdn.simpleicons.org/powerbi" width="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="40"/>
-  <img src="https://cdn.simpleicons.org/pandas" width="40"/>
 </p>
 
 ---
