@@ -8,6 +8,17 @@ Analista de Dados em formação
 
 ---
 
+<h3>📊 Estatísticas</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Em%20Aprendizado-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Em%20Evolução-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-Intermediário-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-Avançado-green?style=for-the-badge"/>
+</p>
+
+---
+
 <h3>Linguagens e Tecnologias</h3>
 
 <p>
