@@ -26,5 +26,5 @@ Analista de Dados em formação
   <img src="https://cdn.simpleicons.org/python" width="40"/>
 </p>
 
----
+
 
