@@ -7,7 +7,7 @@ Analista de Dados em formação
 
 ---
 
-<h3>🚀 Skills</h3>
+<h3>Linguagens e Tecnologias</h3>
 
 <p">
   <img src="https://cdn.simpleicons.org/postgresql" width="40"/>
