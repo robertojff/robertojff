@@ -3,7 +3,7 @@
 
 Analista de Dados em formação
 
- Me chamo Roberto Ferreira, tenho 25 anos e moro em Itapevi, São Paulo. Atualmente estou cursando faculdade e em transição de carreira para a área de Dados. Possuo experiência prática com Excel e Power BI, atuando na organização, análise e automação de processos em ambiente corporativo. Tenho me dedicado ao desenvolvimento de projetos práticos e ao estudo de SQL e Python, com o objetivo de transformar dados em informações relevantes para a tomada de decisão. Busco minha primeira oportunidade como Analista de Dados, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente na área de tecnologia.
+ Me chamo Roberto Ferreira, tenho 25 anos e moro em Itapevi, São Paulo. Atualmente estou cursando faculdade Análise e Desenvolvimento de Sistema e em transição de carreira para a área de Dados. Possuo experiência prática com Excel e Power BI, atuando na organização, análise e automação de processos em ambiente corporativo. Tenho me dedicado ao desenvolvimento de projetos práticos e ao estudo de SQL e Python, com o objetivo de transformar dados em informações relevantes para a tomada de decisão. Busco minha primeira oportunidade como Analista de Dados, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente na área de tecnologia.
 
 
 ---
